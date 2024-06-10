@@ -29,7 +29,7 @@ Este projeto é uma implementação de um banco digital utilizando os conceitos 
 
 1. Clone o repositório:
    ```sh
-   git clone
+   git clone https://github.com/lealbruuno/DIO-DesafioBancoDigital.git
    ```
 
 2. Importe o projeto em sua IDE.
